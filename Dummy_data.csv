@@ -1,4 +1,4 @@
-Device_ID,Location,Average temp,Date,Week,Month
+Device_ID,Location,Average temp,Date
 1,Zwolle,91,11/5/2021 
 1,Zwolle,92,12/5/2021 
 1,Zwolle,95,13/5/2021 
