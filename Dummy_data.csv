@@ -1,4 +1,4 @@
-Device_ID,Location,Temperature,Date,
+Device_ID,Location,Temperature,Date
 1,Zwolle,91,11/5/2021/08:00:00
 1,Zwolle,92,12/5/2021/08:00:00
 1,Zwolle,95,13/5/2021/08:00:00
