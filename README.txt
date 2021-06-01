@@ -1,0 +1,2 @@
+For this code to work, please install python on your computer, the needed extension in python are commented in the code where the imports happen.
+For the notebook to open correctly in visual studio code, install the jupyter notebook extension for vscode.
